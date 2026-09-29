@@ -1,0 +1,11 @@
+# Arquivos de dados locais
+inventario.dat
+
+# Pastas de compilação do PyInstaller
+dist/
+build/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
